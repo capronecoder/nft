@@ -1,0 +1,11 @@
+{
+    "standard": "arc69",
+    "description": "CyberAlgo NFT Card",
+    "external_url": "https://raw.githubusercontent.com/capronecoder/nft/main/goaty_a_cyberpunk_card_for_a_ccg_front_and_back_ability_stats_956201c9-e74c-4402-8f4d-9ed9515fc709.png",
+    "mime_type": "image",
+    "properties": {
+      "health":"6", 
+      "attack":"6", 
+      "defence":"5"
+    }
+  }
