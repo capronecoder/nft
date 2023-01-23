@@ -4,7 +4,7 @@
     "properties": {
         "name": "CyberAlgo #001",
         "description": "A CyberAlgo NFT",
-        "image": "https://raw.githubusercontent.com/capronecoder/nft/main/illustration.png",
+        "image": "illustration.png",
         "image_mimetype": "image/png",
         "external_url": "cyberalgosuperwebsite.com",
         "properties": {
